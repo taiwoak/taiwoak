@@ -15,9 +15,9 @@ I have proficient skills in the following languages:
  <li>TypeScript</li>
 </ul>
 
-Here are different websites I have worked and practised on:
+Here are different websites and projects I have built and worked on:
 <ul>
- <li><a href="https://taiwoak.github.io/cars/">Cars</a></li>
+ <li><a href="https://taiwoak.github.io/cars/">Types of Cars</a></li>
  <li><a href="https://taiwoak.github.io/learncoding/">Learn Coding</a></li>
  <li><a href="https://taiwoak.github.io/huddle/">Huddle</a></li>
  <li><a href="https://taiwoak.github.io/taiwoakerele/">My Dummy Website</a></li>
