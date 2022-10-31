@@ -17,6 +17,7 @@ I have proficient skills in the following languages:
 
 Here are different websites and projects I have built and worked on:
 <ul>
+ <li><a href="https://taiwoak.github.io/linktree/">Linktree Clone App with React</a></li>
  <li><a href="https://taiwoak.github.io/cars/">Types of Cars</a></li>
  <li><a href="https://taiwoak.github.io/learncoding/">Learn Coding</a></li>
  <li><a href="https://taiwoak.github.io/huddle/">Huddle</a></li>
@@ -26,7 +27,6 @@ Here are different websites and projects I have built and worked on:
  <li><a href="https://taiwoak.github.io/profile/">Part 3:</a> The part I contributed to a Team Project - A profile dashboard</li>
 </ul>
 You can find the link to the team project <a href="https://quickterms.herokuapp.com/">here</a>. The project was completed by a group of 24 people consisting of product designers, frontend developers and backend developers in the Ingressive For Good and Zuri Training
-
 
 
 
