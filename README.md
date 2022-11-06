@@ -17,7 +17,7 @@ I have proficient skills in the following languages:
 
 Here are different websites and projects I have built and worked on:
 <ul>
- <li><a href="https://taiwoak.github.io/linktree/">Linktree Clone App with React</a></li>
+ <li><a href="https://taiwoak.github.io/website/">Linktree Clone App with React</a></li>
  <li><a href="https://taiwoak.github.io/cars/">Types of Cars</a></li>
  <li><a href="https://taiwoak.github.io/learncoding/">Learn Coding</a></li>
  <li><a href="https://taiwoak.github.io/huddle/">Huddle</a></li>
