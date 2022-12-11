@@ -19,7 +19,7 @@ Here are different websites and projects I have built and worked on:
 
 <ul>
  <li><a href="https://taiwoak.github.io/metabnb/">Metaverse Airbnb Clone App (Metabnb) built with React</a></li>
- <li><a href="https://taiwoak.github.io/assessment/">A complete company website built with pure HTML, CSS and JavaScript.</a> A total of 17 pages only available in desktop version</li>
+ <li><a href="https://taiwoak.github.io/assessment/">A complete company website built with pure HTML, CSS and JavaScript.</a> A total of 17 pages only available in desktop version unlike the rest of the projects here that are responsive across all screen devices.</li>
  <li><a href="https://profilescreen.vercel.app/">A Dashboard Profile Screen built with React App</a></li>
  <li><a href="https://taiwoak.github.io/website/">Linktree Clone App built with React</a></li>
  <li><a href="https://taiwoak.github.io/cars/">Types of Cars</a></li>
