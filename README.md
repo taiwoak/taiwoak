@@ -18,10 +18,10 @@ I have proficient skills in the following languages:
 Here are different websites and projects I have built and worked on:
 
 <ul>
- <li><a href="https://taiwoak.github.io/metabnb/">Metaverse Airbnb Clone App (Metabnb) with React</a></li>
+ <li><a href="https://taiwoak.github.io/metabnb/">Metaverse Airbnb Clone App (Metabnb) built with React</a></li>
  <li><a href="https://taiwoak.github.io/assessment/">A complete company website built with pure HTML, CSS and JavaScript.</a> A total of 17 pages only available in desktop version</li>
- <li><a href="https://profilescreen.vercel.app/">A Dashboard Profile Screen with React App</a></li>
- <li><a href="https://taiwoak.github.io/website/">Linktree Clone App with React</a></li>
+ <li><a href="https://profilescreen.vercel.app/">A Dashboard Profile Screen built with React App</a></li>
+ <li><a href="https://taiwoak.github.io/website/">Linktree Clone App built with React</a></li>
  <li><a href="https://taiwoak.github.io/cars/">Types of Cars</a></li>
  <li><a href="https://taiwoak.github.io/learncoding/">Learn Coding</a></li>
  <li><a href="https://taiwoak.github.io/huddle/">Huddle</a></li>
