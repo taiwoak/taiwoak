@@ -2,7 +2,7 @@
 
 Welcome to my Portfolio!
 
-I am Taiwo Akerele. I am a Full-stack web developer but specializes in the Frontend.
+I am Taiwo Akerele. I am a Front-end web developer.
 
 I have proficient skills in the following languages:
 <ul>
@@ -12,7 +12,6 @@ I have proficient skills in the following languages:
  <li>JavaScript</li>
  <li>ReactJS</li>
  <li>Python(Django)</li>
- <li>TypeScript</li>
 </ul>
 
 Here are different websites and projects I have built and worked on:
