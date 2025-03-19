@@ -12,7 +12,7 @@
     <img src="https://komarev.com/ghpvc/?username=taiwoak&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h3 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Taiwo Akerele </h3>
+<h3 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Taiwo Akerele. </h3>
 
 I am a Software Engineer with over 4 years of professional experience in Software Development. I am proficient in ReactJs, TypeScript, NodeJs and NestJs.
 
@@ -28,7 +28,7 @@ I am passionate about technology, healthcare and football.
 
 🌱 I’m currently learning more about TypeScript, Python and C# (.NET Core) 
 
-⚡ Fun fact: I love adidas sneakers
+⚡ Fun fact: I love wearing adidas sneakers
 
 ### :hammer_and_wrench: Languages and Tools
 
@@ -47,7 +47,7 @@ I am passionate about technology, healthcare and football.
 </div>
 
 ### :fire: GH Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=taiwoak&theme=dark)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=taiwoak&theme=dark)](https://git.io/streak-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taiwoak&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
