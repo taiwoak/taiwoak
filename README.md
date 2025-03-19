@@ -26,7 +26,7 @@ I am passionate about technology, healthcare and football.
 
 🔭 I’m currently working on building scalable applications
 
-🌱 I’m currently learning more about TypeScript, Python and C# (.NET Core) 
+🌱 I’m currently learning more about TypeScript, Python, C# (.NET Core), AI and ML
 
 ⚡ Fun fact: I love wearing adidas sneakers
 
