@@ -14,7 +14,7 @@
 
 <h3 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Taiwo Akerele. </h3>
 
-I am a Software Engineer with over 5 years of professional experience in Software Development. I am proficient in ReactJs, TypeScript, NodeJs and NestJs.
+I am a Software Engineer with over 5 years of professional experience in Software Development. I am proficient in React, Angular, Next.js, TypeScript, Node.js/NestJS, Python, C#, PHP, and Java.
 
 I love to code and build products.
 
@@ -26,7 +26,7 @@ I am passionate about technology, healthcare and football.
 
 🔭 I’m currently working on building scalable applications
 
-🌱 I’m currently learning more about TypeScript, Python, C# (.NET Core), AI and ML
+🌱 I’m constantly improving my knowledge in TypeScript, Python, Golang, Java, C# (.NET Core), AI and ML
 
 ⚡ Fun fact: I love wearing adidas sneakers
 
