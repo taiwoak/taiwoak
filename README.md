@@ -14,7 +14,7 @@
 
 <h3 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Taiwo Akerele. </h3>
 
-I am a Software Engineer with over 5 years of professional experience in Software Development. I am proficient in React, Angular, Next.js, TypeScript, Node.js/NestJS, Python, C#, PHP, and Java.
+I am a Software Engineer with over 5 years of professional experience in Software Development. I am proficient in React, Angular, Next.js, TypeScript, Node.js/NestJS, Python, C#, PHP, Golang and Java.
 
 I love to code and build products.
 
